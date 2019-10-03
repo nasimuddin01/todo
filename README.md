@@ -1,1 +1,1 @@
-# This a a simple todo list app.
+# This a a simple todo list app version 1.
